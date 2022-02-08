@@ -18,9 +18,6 @@ git reflog 查看仓库的历史操作日志
 git commit -amend 修改提交信息
 git rebase -i 压缩历史 == add + commmit
 git remote add reposname git@github.com: username/reposname 添加远程库名字
-
 git push 推送远程仓库 git push -u reposname main（分支名字）
-
 git clone 获取远程仓库
-
 git pull 获取最新的远程仓库分支
