@@ -11,3 +11,6 @@ git log 查看提交日志
     |     特定文件          |  
     |    -p 提交带来的变动  |  
 git diff 查看工作树与暂存区的差别 + 添加的 - 删除的
+git checkout - 切换上一个分支
+git checkout -b 创建 切换分支
+git merge 合并分支
